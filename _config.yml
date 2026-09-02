@@ -9,11 +9,17 @@
 # Basic Site Settings
 locale                   : "en-AU"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mark Marveggio"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
+<<<<<<< HEAD
 name                     : &name "Mark D Marveggio"
 description              : &description "Mark Marveggio's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mdmarveggio.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+=======
+name                     : &name "Your Name"
+description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+>>>>>>> parent of 7ef3b83 (First Minor Updates)
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "https://mdmarveggio.github.io/" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/MDMarveggio/MDMarveggio.github.io"
@@ -24,11 +30,19 @@ repository               : "https://github.com/MDMarveggio/MDMarveggio.github.io
 author:
   # Biographic information
   avatar           : "profile.png"
+<<<<<<< HEAD
   name             : "Mark Marveggio"
   pronouns         : "he/him"  
   bio              : "A current PhD Candidate investigating capcaity building provision under the NDIS for children and adolescents."
   location         : "Adelaide, SA, Australia"
   employer         : "Adelaide University"
+=======
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
+>>>>>>> parent of 7ef3b83 (First Minor Updates)
   uri              : # URL
   email            : "mark.marveggio@adelaide.edu.au" 
 
