@@ -15,7 +15,7 @@
   clear: both;
 
   /* keep footer in normal document flow so custom widgets do not overlap content */
-  height: auto;
+  height: 0;
 
   /* keep the footer on the bottom of the page */
   position: fixed;
